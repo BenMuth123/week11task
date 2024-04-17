@@ -1,6 +1,6 @@
 const myButton = document.querySelector('button');
 const image = document.querySelector('img');
-const images = ['pexels-pixabay-259554.jpg','img/pexels-pixabay-37833.jpg','img/pexels-pixabay-47547.jpg','img/pexels-pixabay-53581.jpg'];
+const images = ['img/pexels-pixabay-259554.jpg','img/pexels-pixabay-37833.jpg','img/pexels-pixabay-47547.jpg','img/pexels-pixabay-53581.jpg'];
 
 myButton.addEventListener('click', changeImage);
 
